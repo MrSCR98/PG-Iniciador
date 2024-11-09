@@ -70,10 +70,10 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu sistema:
    npx tauri build
    ```
 
-4. **Genera el icono de la aplicación** (asegúrate de tener el archivo de imagen del ícono en ./app-icon.png):
+4. **Genera el icono de la aplicación** (asegúrate de tener el archivo del ícono en ./app-icon.png):
 
    ```bash
-   npx tauri icon ./app-icon.png
+   npx tauri icon
    ```
 
 ## Contribuciones
