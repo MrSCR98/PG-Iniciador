@@ -32,11 +32,11 @@ La aplicación fue desarrollada para ayudar a los usuarios a gestionar las insta
 
 Por defecto, cuando PostgreSQL se instala en Windows, el servicio se configura para iniciarse automáticamente. Aunque esto no suele consumir muchos recursos, es innecesario si no usas PostgreSQL todo el tiempo. Con esta herramienta puedes configurar el servicio para que se inicie solo cuando lo necesites.
 
-[!IMPORTANT]  
-La aplicación debe ejecutarse como **Administrador** para poder modificar los servicios del sistema.
+> [!IMPORTANT]  
+> La aplicación debe ejecutarse como **Administrador** para poder modificar los servicios del sistema.
 
-[!WARNING]  
-Al ejecutar la aplicación, es posible que tu antivirus te muestre una alerta ya que el ejecutable no está firmado. Esto ocurre porque la aplicación no está firmada por una entidad certificada. Sin embargo, puedes crear el ejecutable tú mismo siguiendo los pasos de compilación detallados a continuación. Si confías en el origen del código, puedes continuar sin problemas.
+> [!WARNING]  
+> Al ejecutar la aplicación, es posible que tu antivirus te muestre una alerta ya que el ejecutable no está firmado. Esto ocurre porque la aplicación no está firmada por una entidad certificada. Sin embargo, puedes crear el ejecutable tú mismo siguiendo los pasos de compilación detallados a continuación. Si confías en el origen del código, puedes continuar sin problemas.
 
 ## Requisitos
 
