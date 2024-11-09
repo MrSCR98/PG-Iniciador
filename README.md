@@ -4,7 +4,8 @@
 
 **Controlador de PostgreSQL** es una aplicación diseñada para facilitar la gestión de instancias de bases de datos PostgreSQL en sistemas Windows. Permite iniciar, detener y configurar el modo de inicio del servicio de PostgreSQL de forma sencilla. Esta herramienta no está afiliada oficialmente con el proyecto PostgreSQL.
 
-Descargar ejecutable: [PG-Iniciador.exe](https://github.com/MrSCR98/PG-Iniciador/releases/download/Ejecutable/PG-Iniciador.exe)
+> [!NOTE]
+> Puedes descargar el ejecutable desde el siguiente enlace: [PG-Iniciador.exe](https://github.com/MrSCR98/PG-Iniciador/releases/download/Ejecutable/PG-Iniciador.exe)
 
 ## ¿Cómo utilizar la aplicación? Guía paso a paso
 
