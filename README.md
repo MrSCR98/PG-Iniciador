@@ -91,4 +91,11 @@ Este proyecto **no es oficial** y está disponible para su mejora. Si tienes sug
 
 ---
 
+> [!TIP]
+> ejecutar services.msc buscar postgresql-x64-16 boton derecho propiedades, tipo de inicio, manual, aplicar y aceptar
+>
+> net start postgresql-x64-16
+> 
+> net stop postgresql-x64-16
+
 ¡Gracias por usar esta herramienta! Esperamos que te facilite la gestión de PostgreSQL en tu entorno de desarrollo o producción en Windows.
