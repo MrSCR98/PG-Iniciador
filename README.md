@@ -1,11 +1,12 @@
-# Controlador de PostgreSQL
+# <img src="https://github.com/MrSCR98/PG-Iniciador/blob/main/src-tauri/icons/32x32.png?raw=true" alt="Logo" height="24"> Controlador de PostgreSQL
 
-<img src="https://github.com/MrSCR98/PG-Iniciador/blob/main/src-tauri/icons/32x32.png?raw=true" alt="Logo" height="28">[![Logo](https://img.shields.io/badge/PG_Iniciador-f7f7f7?style=for-the-badge&labelColor=101010)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]() [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]() [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]() [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]() [![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]() [![Tauri](https://img.shields.io/badge/Tauri-ffc131?style=for-the-badge&logo=tauri&logoColor=white&labelColor=101010)]() 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]() [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]() [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]() [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]() [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]() [![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=101010)]() [![Tauri](https://img.shields.io/badge/Tauri-ffc131?style=for-the-badge&logo=tauri&logoColor=white&labelColor=101010)]() 
 
 
 <!-- 
 [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&labelColor=101010)]()
 [![Tauri](https://img.shields.io/badge/Tauri-ffc131?style=for-the-badge&logo=tauri&logoColor=white&labelColor=101010)]() 
+<img src="https://github.com/MrSCR98/PG-Iniciador/blob/main/src-tauri/icons/32x32.png?raw=true" alt="Logo" height="28">[![Logo](https://img.shields.io/badge/PG_Iniciador-f7f7f7?style=for-the-badge&labelColor=101010)]()
 -->
 
 ![App Screenshot](README/1.webp)
